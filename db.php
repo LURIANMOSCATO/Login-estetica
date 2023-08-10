@@ -1,6 +1,6 @@
 <?php
-define("SERVER","localhost:3307");
-define("USER","admin");
-define("PASSWORD","admin");
+define("SERVER","node147407-ad-apis.jelastic.saveincloud.net");
+define("USER","root");
+define("PASSWORD","BXPmlq69936");
 define("DATABASE","centro_estetico");
 ?>
